@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <owner>
+        <username>TrainingData</username>
+        <email/>
+      </owner>
+      
+      <labels>
+        <label>
+          <name>is_empty</name>
+          <color>#33ddff</color>
+          <type>tag</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>is_full</name>
+          <color>#fa3253</color>
+          <type>tag</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>is_scattered</name>
+          <color>#733380</color>
+          <type>tag</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2023-06-04 21:19:09.713843+00:00</dumped>
+  </meta>
+  <image id="0" name="img/1.jpg" width="3468" height="4624">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="1" name="img/10.jpg" width="3000" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="2" name="img/100.jpg" width="1728" height="3072">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="3" name="img/101.jpg" width="4624" height="3468">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="4" name="img/102.jpg" width="3024" height="4032">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="5" name="img/103.jpg" width="3000" height="4000">
+    <tag label="is_empty" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="6" name="img/104.jpg" width="4000" height="3000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="7" name="img/105.jpg" width="4160" height="3120">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="8" name="img/106.jpg" width="4000" height="1808">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="9" name="img/107.jpg" width="4032" height="3024">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="10" name="img/108.jpg" width="4000" height="3000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="11" name="img/109.jpg" width="4000" height="1800">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="12" name="img/11.jpg" width="3024" height="4032">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="13" name="img/110.jpg" width="1816" height="4032">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="14" name="img/111.jpg" width="4032" height="3024">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="15" name="img/112.jpg" width="2992" height="2992">
+    <tag label="is_empty" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="16" name="img/113.jpg" width="3968" height="2976">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="17" name="img/114.jpg" width="3000" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="18" name="img/115.jpg" width="2992" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="19" name="img/116.jpg" width="4032" height="3024">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="20" name="img/117.jpg" width="3000" height="3000">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="21" name="img/118.jpg" width="4032" height="3024">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="22" name="img/119.jpg" width="4032" height="3024">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="23" name="img/12.jpg" width="1860" height="4032">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="24" name="img/120.jpg" width="4032" height="3024">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="25" name="img/121.jpg" width="4032" height="3024">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="26" name="img/122.jpg" width="3000" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="27" name="img/123.jpg" width="4160" height="3120">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="28" name="img/124.jpg" width="4160" height="3120">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="29" name="img/125.jpg" width="5120" height="3840">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="30" name="img/126.jpg" width="4608" height="3456">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="31" name="img/127.jpg" width="4000" height="3000">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="32" name="img/128.jpg" width="3456" height="4608">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="33" name="img/129.jpg" width="4624" height="2136">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="34" name="img/13.jpg" width="3000" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="35" name="img/130.jpg" width="2448" height="3264">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="36" name="img/131.jpg" width="4160" height="3120">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="37" name="img/132.jpg" width="4000" height="3000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="38" name="img/133.jpg" width="4032" height="3024">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="39" name="img/134.jpg" width="2992" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="40" name="img/135.jpg" width="4000" height="3000">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="41" name="img/136.jpg" width="4160" height="3120">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="42" name="img/137.jpg" width="3000" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="43" name="img/138.jpg" width="5344" height="3006">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="44" name="img/139.jpg" width="2448" height="3264">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="45" name="img/14.jpg" width="3264" height="2448">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="46" name="img/140.jpg" width="4096" height="3072">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="47" name="img/141.jpg" width="3120" height="4160">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="48" name="img/142.jpg" width="3472" height="4624">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="49" name="img/143.jpg" width="1800" height="4000">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="50" name="img/144.jpg" width="4160" height="3120">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="51" name="img/145.jpg" width="4000" height="3000">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="52" name="img/146.jpg" width="4000" height="3000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="53" name="img/147.jpg" width="2448" height="3264">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="54" name="img/148.jpg" width="4624" height="3472">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="55" name="img/149.jpg" width="3072" height="4080">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="56" name="img/15.jpg" width="3024" height="4032">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="57" name="img/150.jpg" width="4128" height="1908">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="58" name="img/151.jpg" width="3000" height="4000">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="59" name="img/152.jpg" width="3024" height="4032">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="60" name="img/153.jpg" width="3264" height="2448">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="61" name="img/154.jpg" width="3000" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="62" name="img/155.jpg" width="3024" height="4032">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="63" name="img/156.jpg" width="4624" height="3472">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="64" name="img/157.jpg" width="4624" height="3472">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="65" name="img/158.jpg" width="2448" height="3264">
+    <tag label="is_empty" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="66" name="img/159.jpg" width="3072" height="4080">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="67" name="img/16.jpg" width="3456" height="4608">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="68" name="img/160.jpg" width="3000" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="69" name="img/161.jpg" width="4000" height="3000">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="70" name="img/162.jpg" width="3120" height="4160">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="71" name="img/17.jpg" width="4032" height="2268">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="72" name="img/18.jpg" width="4000" height="3000">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="73" name="img/19.jpg" width="3000" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="74" name="img/2.jpg" width="3120" height="4160">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="75" name="img/20.jpg" width="3024" height="4032">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="76" name="img/21.jpg" width="3968" height="2976">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="77" name="img/22.jpg" width="4160" height="3120">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="78" name="img/23.jpg" width="3264" height="2448">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="79" name="img/24.jpg" width="3000" height="4000">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="80" name="img/25.jpg" width="3472" height="4624">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="81" name="img/26.jpg" width="3024" height="4032">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="82" name="img/27.jpg" width="4160" height="1872">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="83" name="img/28.jpg" width="4080" height="3072">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="84" name="img/29.jpg" width="4000" height="3000">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="85" name="img/3.jpg" width="3024" height="4032">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="86" name="img/30.jpg" width="3120" height="4160">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="87" name="img/31.jpg" width="3264" height="2448">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="88" name="img/32.jpg" width="3016" height="4032">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="89" name="img/33.jpg" width="3296" height="1536">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="90" name="img/34.jpg" width="1638" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="91" name="img/35.jpg" width="3456" height="4608">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="92" name="img/36.jpg" width="3120" height="4160">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="93" name="img/37.jpg" width="3016" height="4032">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="94" name="img/38.jpg" width="3024" height="4032">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="95" name="img/39.jpg" width="3000" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="96" name="img/4.jpg" width="4000" height="3000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="97" name="img/40.jpg" width="3000" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="98" name="img/41.jpg" width="3000" height="4000">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="99" name="img/42.jpg" width="4096" height="1840">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="100" name="img/43.jpg" width="3472" height="4624">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="101" name="img/44.jpg" width="4096" height="3072">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="102" name="img/45.jpg" width="4624" height="2136">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="103" name="img/46.jpg" width="3120" height="4160">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="104" name="img/47.jpg" width="4128" height="3096">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="105" name="img/48.jpg" width="2304" height="4096">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="106" name="img/49.jpg" width="3024" height="4032">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="107" name="img/5.jpg" width="4000" height="3000">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="108" name="img/50.jpg" width="3120" height="4160">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="109" name="img/51.jpg" width="3264" height="2448">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="110" name="img/52.jpg" width="4032" height="3024">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="111" name="img/53.jpg" width="4160" height="3120">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="112" name="img/54.jpg" width="4032" height="3024">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="113" name="img/55.jpg" width="4608" height="2592">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="114" name="img/56.jpg" width="1944" height="2592">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="115" name="img/57.jpg" width="4160" height="3120">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="116" name="img/58.jpg" width="2250" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="117" name="img/59.jpg" width="1908" height="4128">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="118" name="img/6.jpg" width="4032" height="3024">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="119" name="img/60.jpg" width="4032" height="3024">
+    <tag label="is_empty" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="120" name="img/61.jpg" width="4000" height="3000">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="121" name="img/62.jpg" width="4032" height="3024">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="122" name="img/63.jpg" width="3472" height="4624">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="123" name="img/64.jpg" width="4160" height="3120">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="124" name="img/65.jpg" width="4624" height="3472">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="125" name="img/66.jpg" width="3024" height="4032">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="126" name="img/67.jpg" width="2448" height="3264">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="127" name="img/68.jpg" width="3000" height="4000">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="128" name="img/69.jpg" width="4000" height="3000">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="129" name="img/7.jpg" width="3024" height="4032">
+    <tag label="is_empty" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="130" name="img/70.jpg" width="4000" height="3000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="131" name="img/71.jpg" width="4032" height="3024">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="132" name="img/72.jpg" width="3000" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="133" name="img/73.jpg" width="1868" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="134" name="img/74.jpg" width="2322" height="4128">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="135" name="img/75.jpg" width="1840" height="4080">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="136" name="img/76.jpg" width="4608" height="2128">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="137" name="img/77.jpg" width="4624" height="3468">
+    <tag label="is_empty" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="138" name="img/78.jpg" width="3456" height="4608">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="139" name="img/79.jpg" width="4000" height="3000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="140" name="img/8.jpg" width="3000" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="141" name="img/80.jpg" width="3024" height="4032">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="142" name="img/81.jpg" width="4032" height="3024">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="143" name="img/82.jpg" width="4032" height="3024">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="144" name="img/83.jpg" width="4032" height="3024">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="145" name="img/84.jpg" width="3000" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="146" name="img/85.jpg" width="3024" height="4032">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="147" name="img/86.jpg" width="4096" height="3072">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="148" name="img/87.jpg" width="4160" height="3120">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="149" name="img/88.jpg" width="3072" height="4080">
+    <tag label="is_full" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="150" name="img/89.jpg" width="2448" height="3264">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="151" name="img/9.jpg" width="2992" height="4000">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="152" name="img/90.jpg" width="3456" height="4608">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="153" name="img/91.jpg" width="3024" height="4032">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="154" name="img/92.jpg" width="4032" height="3024">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="155" name="img/93.jpg" width="4032" height="3024">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="156" name="img/94.jpg" width="3456" height="4608">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="157" name="img/95.jpg" width="4000" height="3000">
+    <tag label="is_scattered" source="manual">
+    </tag>
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="158" name="img/96.jpg" width="4000" height="3000">
+    <tag label="is_empty" source="manual">
+    </tag>
+  </image>
+  <image id="159" name="img/97.jpg" width="4000" height="3000">
+    <tag label="is_empty" source="manual">
+    </tag>
+    <tag label="is_scattered" source="manual">
+    </tag>
+  </image>
+  <image id="160" name="img/98.jpg" width="4000" height="3000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+  <image id="161" name="img/99.jpg" width="1800" height="4000">
+    <tag label="is_full" source="manual">
+    </tag>
+  </image>
+</annotations>
+
